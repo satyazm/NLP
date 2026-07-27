@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/processed/
+data/features/
+vectorstore/*.faiss
+vectorstore/*.pkl
+.DS_Store
+data/raw/twcs.csv

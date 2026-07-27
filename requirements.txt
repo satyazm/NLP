@@ -1,0 +1,15 @@
+pandas
+pyarrow
+numpy
+scikit-learn
+vaderSentiment
+spacy
+sentence-transformers
+bertopic
+transformers
+torch
+faiss-cpu
+google-genai
+streamlit
+plotly
+python-dotenv
